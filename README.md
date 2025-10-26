@@ -1,6 +1,6 @@
-#Candidate Technical Assessment — Quiz App
+# Candidate Technical Assessment — Quiz App
 
-#####Live Demo: https://ghostz-maker.github.io/Quiz/
+##### Live Demo: https://ghostz-maker.github.io/Quiz/
 
 <p align="center">
   <img src="Quiz.gif" width="45%" alt="Mobile View">
@@ -10,12 +10,12 @@
   <em>Mobile view</em>
 </p>
 
-#####License: MIT
+##### License: MIT
 
 A clean, mobile-friendly technical assessment quiz for candidate shortlisting.
 Built using HTML, CSS, and JavaScript — candidates can select programming languages, take timed quizzes, and upload their resume after passing.
 
-##✨ Features
+## ✨ Features
 
 ✅ Multi-language selection (modern chips UI)
 
@@ -44,8 +44,8 @@ Built using HTML, CSS, and JavaScript — candidates can select programming lang
  ├── quiz.json         # external question bank
  └── README.md
 
-####🧑‍💻 Author: ghostz-maker (Sumitra)
+#### 🧑‍💻 Author: ghostz-maker (Sumitra)
 
-#######📜 License
+###### 📜 License
 
 Licensed under the MIT License.
